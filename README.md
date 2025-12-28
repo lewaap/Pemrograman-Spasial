@@ -16,4 +16,5 @@ Peta hasil analisis dapat diakses di:
 4. Hasil divisualisasikan dalam Folium
 
 ## Visualisasi Statis
-(Gambar dari matplotlib dapat ditambahkan di sini)
+<img width="1039" height="1010" alt="download" src="https://github.com/user-attachments/assets/fbfd9b58-9422-47b2-9920-f7944c0d0cf3" />
+
