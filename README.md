@@ -12,7 +12,7 @@ Peta hasil analisis dapat diakses di:
 ## Metode
 1. Buffer 500 m dibuat dari lokasi hotel
 2. Jarak hotel–halte dihitung
-3. KMeans digunakan untuk mengelompokkan aksesibilitas
+3. K-Means digunakan untuk mengelompokkan aksesibilitas
 4. Hasil divisualisasikan dalam Folium
 
 ## Visualisasi Statis
